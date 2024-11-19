@@ -1,6 +1,5 @@
 <div align="center">
 
-# Hello, I'm [Brick] 👋
 
 ### Exploring the Digital Frontier | Student Developer | Tech Enthusiast
 
